@@ -8,7 +8,7 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=silvajeferson82&hide=html&layout=cobalt=true&theme=cobalt)](https://github.com/silvajeferson82/)
 
 <p align="left">
-  <a href="jefersonsilva.contato@gmail.com" alt="Gmail">
+  <a href="gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jefersonsilva.contato@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
