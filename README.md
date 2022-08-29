@@ -1,6 +1,6 @@
 ### Olá, sou o Jeferson Silva 👋
 
-- 🔭 Atualmente trabalhando com BackEnd Ruby on Rails
+- 🔭 Atualmente trabalhando com BackEnd NodeJs | Ruby on Rails
 - 🌱 Estudando Javascript, NodeJS,Ruby on Rails, PostgreSQL e Estrutura de Negócios
 #
 [![card](https://github-readme-stats.vercel.app/api?username=silvajeferson82&theme=cobalt)](https://github.com/silvajeferson82/)
